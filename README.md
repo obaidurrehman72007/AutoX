@@ -44,4 +44,4 @@ AutoX is a cutting-edge web experience designed for the next generation of luxur
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/autox.git](https://github.com/your-username/autox.git)
+   git clone [https://github.com/obaidurrehman72007/AutoX]
